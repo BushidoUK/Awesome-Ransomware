@@ -25,11 +25,11 @@
 - APK Mobile Ransomware - https://koodous.com/apks?search=tag:ransomware
 
 ### Ransomware Data Leaks
+- Regularly updated crowdsourced list of .onion links for ransomware data leak sites: https://github.com/fastfire/deepdarkCTI/blob/main/ransomware_gang.md
 - Historical list of Darknet Data Leak victims (2019-05-01 to 2021-07-23) - https://drive.google.com/file/d/1MI8Z2tBhmqQ5X8Wf_ozv3dVjz5sJOs-3/view
 - Ransomware blog links - https://github.com/thetanz/ransomwatch/blob/main/docs/INDEX.md
 - Ransomwre Leak Sites Wiki - edteebo2w2bvwewbjb5wgwxksuwqutbg3lk34ln7jpf3obhy4cvkbuqd[.]onion
 - Who's been ransomware'd - https://ransom.wiki/
-
 
 ### Ransomware Research
 - Ransomware Internal Chat/Resource Leaks and where to find them - https://github.com/BushidoUK/Ransomware-Leaks
