@@ -39,6 +39,7 @@
 - Twitter #Ransomware tags - https://twitter.com/search?q=%23ransomware&src=typed_query&f=live
 - Twitter List of Ransomware Researchers: https://twitter.com/i/lists/1256159047755202560
 - OCD Ransomware Ecosystem Map - https://github.com/cert-orangecyberdefense/ransomware_map
+- Chats from Ransomware Negotiations - https://ransomch.at/
 
 ### Ransomware Official Guidance
 - CISA Ransomware Newsroom - https://www.cisa.gov/stopransomware/newsroom
