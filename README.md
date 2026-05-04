@@ -5,7 +5,7 @@
 
 ---
 
-⭐ Star us on GitHub — your support motivates us a lot! 🙏😊
+⭐ Star us on GitHub — your support matters!
 
 ## 🚀 About
 
