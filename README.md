@@ -22,7 +22,6 @@
 - Hatching Triage - https://tria.ge/s?q=tag%3Aransomware
 - Malware Bazaar Ransomware Tags - https://bazaar.abuse.ch/browse.php?search=tag%3Aransomware
 - AnyRun Ransomware Tags - https://app.any.run/submissions/#tag:ransomware
-- APK Mobile Ransomware - https://koodous.com/apks?search=tag:ransomware
 
 ### Ransomware Data Leaks
 - RansomwareLive - https://www.ransomware.live/
