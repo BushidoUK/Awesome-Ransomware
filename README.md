@@ -9,7 +9,7 @@
 
 ## 🚀 About
 
-### Ransomware TTPs
+### Ransomware Tools & CVEs
 - The Ransomware Tool Matrix - https://github.com/BushidoUK/Ransomware-Tool-Matrix
 - The Ransomware Vulnerability Matrix - https://github.com/BushidoUK/Ransomware-Vulnerability-Matrix/
 
@@ -25,10 +25,11 @@
 - APK Mobile Ransomware - https://koodous.com/apks?search=tag:ransomware
 
 ### Ransomware Data Leaks
+- RansomwareLive - https://www.ransomware.live/
+- RansomLook - https://www.ransomlook.io/
 - Regularly updated crowdsourced list of .onion links for ransomware data leak sites: https://github.com/fastfire/deepdarkCTI/blob/main/ransomware_gang.md
 - Historical list of Darknet Data Leak victims (2019-05-01 to 2021-07-23) - https://drive.google.com/file/d/1MI8Z2tBhmqQ5X8Wf_ozv3dVjz5sJOs-3/view
 - Ransomware blog links - https://github.com/thetanz/ransomwatch/blob/main/docs/INDEX.md
-- Ransomwre Leak Sites Wiki - edteebo2w2bvwewbjb5wgwxksuwqutbg3lk34ln7jpf3obhy4cvkbuqd[.]onion
 - Who's been ransomware'd - https://ransom.wiki/
 
 ### Ransomware Research
@@ -37,6 +38,7 @@
 - Pulsedive Ransomware news articles - https://pulsedive.com/threat/?tid=437
 - Twitter #Ransomware tags - https://twitter.com/search?q=%23ransomware&src=typed_query&f=live
 - Twitter List of Ransomware Researchers: https://twitter.com/i/lists/1256159047755202560
+- OCD Ransomware Ecosystem Map - https://github.com/cert-orangecyberdefense/ransomware_map
 
 ### Ransomware Official Guidance
 - CISA Ransomware Newsroom - https://www.cisa.gov/stopransomware/newsroom
