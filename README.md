@@ -12,6 +12,7 @@
 ### Ransomware Tools & CVEs
 - The Ransomware Tool Matrix - https://github.com/BushidoUK/Ransomware-Tool-Matrix
 - The Ransomware Vulnerability Matrix - https://github.com/BushidoUK/Ransomware-Vulnerability-Matrix/
+- Ransomware TTPs mapped to MITRE ATT&CK - https://github.com/crocodyli/ThreatActors-TTPs/
 
 ### Ransomware Stats
 - ID Ransomware - https://id-ransomware.malwarehunterteam.com/
