@@ -14,8 +14,9 @@
 - The Ransomware Vulnerability Matrix - https://github.com/BushidoUK/Ransomware-Vulnerability-Matrix/
 - Ransomware TTPs mapped to MITRE ATT&CK - https://github.com/crocodyli/ThreatActors-TTPs/
 
-### Ransomware Stats
-- ID Ransomware - https://id-ransomware.malwarehunterteam.com/
+### Ransom Notes
+- Ransom Notes Collection by Zscaler ThreatLabz - https://github.com/ThreatLabz/ransomware_notes
+- ID Ransom Notes - https://id-ransomware.malwarehunterteam.com/
 
 ### Ransomware Samples
 - ID Ransomware Blogspot - https://id-ransomware.blogspot.com/
