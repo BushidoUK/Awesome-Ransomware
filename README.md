@@ -19,6 +19,7 @@
 - ID Ransom Notes - https://id-ransomware.malwarehunterteam.com/
 
 ### Ransomware Samples
+- Rivitna's Collection of Ransomware Samples - https://github.com/rivitna/Malware
 - ID Ransomware Blogspot - https://id-ransomware.blogspot.com/
 - VirusTotal comments - https://www.virustotal.com/gui/search/ransomware/comments
 - Hatching Triage - https://tria.ge/s?q=tag%3Aransomware
