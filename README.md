@@ -35,6 +35,7 @@
 - Who's been ransomware'd - https://ransom.wiki/
 
 ### Ransomware Research
+- Ransomware Breach Report Collection - https://github.com/BushidoUK/Breach-Report-Collection/blob/main/Ransomware/BreachReports.md
 - Ransomware Internal Chat/Resource Leaks and where to find them - https://github.com/BushidoUK/Ransomware-Leaks
 - Ransomware Cryptocurrency Wallets - https://ransomwhe.re/
 - Pulsedive Ransomware news articles - https://pulsedive.com/threat/?tid=437
