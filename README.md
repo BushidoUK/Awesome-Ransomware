@@ -54,6 +54,7 @@
 - Ransomware Countermeasure Tracker - https://virtual-routes.org/ransomware-countermeasures-tracker/
 - No More Ransom - https://www.nomoreransom.org/
 - Ransom Payment Legality - https://rkovar.github.io/ransomwarelegality/
+- RansomLeak Ransomware Awareness Training - https://ransomleak.com/threats/ransomware/
 
 ### Other Collections on Ransomware
 - Ransomware Overview - https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/view
