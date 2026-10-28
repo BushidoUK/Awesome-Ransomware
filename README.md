@@ -55,6 +55,9 @@
 - No More Ransom - https://www.nomoreransom.org/
 - Ransom Payment Legality - https://rkovar.github.io/ransomwarelegality/
 
+### Ransomware Recovery
+- [Kook Recovery](https://github.com/IMAN-Py/kook-recovery) - Local partial photo/video reconstruction for `.kook` files, built on PhotoPhoenix. Not a decryptor; recovery is not guaranteed. Includes a macOS app and Windows CLI; use copies of affected files. The recovery engine is licensed for noncommercial use.
+
 ### Other Collections on Ransomware
 - Ransomware Overview - https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/view
 
